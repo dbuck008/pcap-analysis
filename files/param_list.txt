@@ -1,0 +1,13 @@
+frame.time_epoch
+frame.len
+eth.src
+eth.dst
+vlan.id
+ip.src
+ip.dst
+ip.proto
+ip.id
+tcp.srcport
+tcp.dstport
+udp.srcport
+udp.dstport

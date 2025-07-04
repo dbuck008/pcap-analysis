@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+/pcaps
+/useful_commands.txt
+/__pycache__
